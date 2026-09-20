@@ -1,0 +1,51 @@
+id,first_name,last_name,email,phone
+1,giannis,papadopoulos,giannis@test.gr,69 1234 5678
+2,MARIA,nikolaou,,69-8765-4321
+3,kostas,mitrou,k.mitrou@test.gr,6911122233
+4,eleni,georgiou,elenig#test.gr,
+5,Petros,Antoniou,petros@test.gr,69-99-88-77-66
+6,george,KARAS,g.karas@domain.com,69 77 123 456
+7,SOFIA,papageorgiou,sofia_p@test.gr,69-11-22-33-44
+8,alexandros,DIMITRIOU,alex.dimitriou#gmail.com,6987654321
+9,Dimitris,vasileiou,,69 33 44 55 66
+10,KATERINA,Athanasiou,katerina.ath@test.gr,69-44-55-66-77
+11,nikos,stefanou,nikos.stefanou@company.gr,
+12,ANNA,OIKONOMOU,anna.oik#mail.com,6978901234
+13,panagiotis,LAKIS,panos.lakis@test.gr,69 00 11 22 33
+14,Christina,POLITI,,
+15,vasilis,RAPTIS,v.raptis@work.gr,69-22-33-44-55
+16,MARIOS,zotos,marios_zotos@test.gr,6934567890
+17,EVANGELIA,pappa,e.pappa#test.gr,69 55 66 77 88
+18,spiros,KYRIAKOU,spiros@domain.com,69-66-77-88-99
+19,ioanna,PSARRA,,6971234567
+20,STAVROS,markou,stavros.m@test.gr,69 88 99 00 11
+21,despoina,KONTOS,desp.k@test.gr,69-00-11-22-33
+22,MICHALIS,aleksiou,m.aleksiou#mail.gr,6990123456
+23,eleni,TRIANTAFYLLOU,,69 11 22 33 44
+24,THEODOROS,samaras,theo.sam@test.gr,69-33-44-55-66
+25,angeliki,FLOROU,ang.florou@domain.gr,
+26,GREGORY,papanikolaou,greg_pap@test.gr,6956789012
+27,marina,VLACHOU,marina.vlachou#test.gr,69 44 55 66 77
+28,ANTONIS,solomon,a.solomon@company.gr,69-55-66-77-88
+29,stella,KANNELLI,,6967890123
+30,KONSTANTINOS,diamantis,k.diamantis@test.gr,69 77 88 99 00
+31,eirini,tzani,eirini_tz@domain.com,69-88-99-00-11
+32,GEORGIOS,bakas,g.bakas#company.com,6978901234
+33,olga,DOUKA,,
+34,CHRISTOS,lazaridis,ch.lazaridis@test.gr,69 99 00 11 22
+35,vassiliki,SOTIRIOU,v.sotiriou@test.gr,69-00-11-22-33
+36,MANOLIS,fotiou,m.fotiou#domain.gr,6912345678
+37,athanasia,KARRAS,a.karras@test.gr,69 22 33 44 55
+38,IPPOKRATIS,gkikas,,69-44-55-66-77
+39,zoi,CHARALAMPOUS,zoi.char@test.gr,6934567890
+40,SOKRATIS,livanios,soc.liv#mail.gr,
+41,alkis,SERETIS,alkis.s@domain.com,69 55 66 77 88
+42,PENNY,stavrou,,69-66-77-88-99
+43,iasonas,KAZANTZIS,iasonas@test.gr,6978901234
+44,AGAPI,perrakis,agapi.p#test.gr,69 77 88 99 00
+45,dionysis,SIDERIS,d.sideris@company.gr,69-88-99-00-11
+46,NEFELI,pavlidou,,6989012345
+47,miltiadis,KOMNINOS,m.komninos@test.gr,69 99 00 11 22
+48,FOIVI,kallisti,foivi.k#domain.gr,69-00-11-22-33
+49,spyridon,PRASSAS,s.prassas@test.gr,
+50,EFTHYMIOS,voulgaris,e.voulgaris@test.gr,6923456789
